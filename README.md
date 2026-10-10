@@ -8,7 +8,7 @@ ACLs.
  
 ## Topology Overview
  
-![Network topology: two-office three-tier campus](topologs.png)
+![Topology](topolgs.png)
  
 *Full topology: Office 1 (left) and Office 2 (right), joined through two core switches and router R1.*
  
