@@ -1,4 +1,4 @@
-# Three-Tier-Campus-Enterprise-Network-Designed-Built-in-Cisco-Packet-Tracer
+# Three Tier Campus Enterprise Network Design
 A simulated two-office enterprise network built in Cisco Packet Tracer, designed around
 the three-tier hierarchical model (access / distribution / core). The project covers
 VLSM subnetting, inter-VLAN routing, first-hop redundancy, a routed distribution-to-core
